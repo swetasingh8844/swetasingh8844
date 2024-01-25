@@ -1,4 +1,4 @@
-<center ![logo](https://github.com/swetasingh8844/swetasingh8844/blob/main/positive%20vibes%20(1).png)
+ ![logo](https://github.com/swetasingh8844/swetasingh8844/blob/main/positive%20vibes%20(1).png)
 <h1 align="center">Hi 👋, I'm Sweta Singh</h1>
 <img align="right" alt="coding" width="400" src="https://wisdominfosoft.com/images/innerpages/function-of-node.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetasingh8844&label=Profile%20views&color=0e75b6&style=flat" alt="swetasingh8844" /> </p>
