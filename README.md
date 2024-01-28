@@ -1,4 +1,9 @@
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/08/discord-banner-gif-7.gif)](https://swetasingh8844.io)
+
+<div align="center">
+  <a href="https://swetasingh8844.io">
+    <img src="https://www.gifcen.com/wp-content/uploads/2022/08/discord-banner-gif-7.gif" alt="MasterHead" width="600">
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Sweta Singh</h1>
 <img align="right" alt="coding" width="400" src="https://wisdominfosoft.com/images/innerpages/function-of-node.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetasingh8844&label=Profile%20views&color=0e75b6&style=flat" alt="swetasingh8844" /> </p>
