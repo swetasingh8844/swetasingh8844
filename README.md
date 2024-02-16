@@ -1,7 +1,8 @@
 [![swetasingh8844's GitHub | Stats](https://stats.quine.sh/swetasingh8844/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swetasingh8844)
+[![swetasingh8844's GitHub | Dependencies](https://stats.quine.sh/swetasingh8844/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swetasingh8844)
 [![swetasingh8844's GitHub | Topics Over Time](https://stats.quine.sh/swetasingh8844/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swetasingh8844)
 [![swetasingh8844's GitHub | Languages Over Time](https://stats.quine.sh/swetasingh8844/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swetasingh8844)
-[![swetasingh8844's GitHub | Dependencies](https://stats.quine.sh/swetasingh8844/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swetasingh8844)
+
 <div align="center">
   <a href="https://swetasingh8844.io">
     <img src="https://www.gifcen.com/wp-content/uploads/2022/08/discord-banner-gif-7.gif" alt="MasterHead" width="600">
