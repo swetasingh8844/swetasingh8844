@@ -1,7 +1,3 @@
-[![swetasingh8844's GitHub | Stats](https://stats.quine.sh/swetasingh8844/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swetasingh8844)
-[![swetasingh8844's GitHub | Dependencies](https://stats.quine.sh/swetasingh8844/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swetasingh8844)
-[![swetasingh8844's GitHub | Topics Over Time](https://stats.quine.sh/swetasingh8844/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swetasingh8844)
-[![swetasingh8844's GitHub | Languages Over Time](https://stats.quine.sh/swetasingh8844/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=swetasingh8844)
 
 <div align="center">
   <a href="https://swetasingh8844.io">
